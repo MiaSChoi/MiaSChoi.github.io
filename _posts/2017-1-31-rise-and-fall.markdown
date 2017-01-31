@@ -1,4 +1,5 @@
 ---
 layout: post
-title: #1.오르락 내리락 rise and fall 
+title: 첫번째. 오르락 내리락 rise and fall 
 ---
+해미햄스터를 본격적으로 시작한지 벌써 10개월째, 언제 10개월이 갔는지 모르게 지나갔다. 나는 뭔가를 배우긴 했을까?
